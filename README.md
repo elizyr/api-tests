@@ -1,5 +1,7 @@
 # 🧪 API Tests — ReqRes
 
+![Preview](preview.png)
+
 Projeto de testes automatizados de API REST utilizando RestAssured + Java + JUnit 5, com CI/CD via GitHub Actions.
 
 ## ✅ Cobertura de Testes
